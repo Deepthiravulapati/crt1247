@@ -97,26 +97,4 @@ public class Solution {
 }
 27
 }
-Line: 14 Col: 17
-Run Code Submit CodeUpload Code as File 
-Test against custom input
-Testcase 0
-Testcase 1
-Congratulations, you passed the sample test case.
-
-Click the Submit Code button to run your code against all the test cases.
-
-Input (stdin)
-
-3
-31
-28
-13
-Your Output (stdout)
-
-44
-28
-Expected Output
-
-44
-28
+t 
